@@ -36,4 +36,4 @@ dependencies:
   - name: mongodb
     condition: mongodb.enabled
     version: 13.x.x
-    repository: "https://charts.bitnami.com/bitnami"
+    repository: "zcube/bitnami-compat/postgresql"
