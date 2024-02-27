@@ -12,7 +12,7 @@ entries:
       version: 2.x.x
     - condition: mongodb.enabled
       name: mongodb
-      repository: https://charts.bitnami.com/bitnami
+      repository: zcube/bitnami-compat/postgresql
       version: 13.x.x
     description: Gorse Recommender System Engine
     digest: 72c8e3fcf80ca4f5f1fb29837670002f852c5975c9f38d332acaa33fa3b91e23
